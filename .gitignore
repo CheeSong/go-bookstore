@@ -1,0 +1,16 @@
+# 1. Ignore compiled binaries
+*.exe
+*.out
+*.dll
+*.so
+
+# 2. Ignore environment variable files
+.env
+
+# 3. Ignore dependency/vendor folder
+vendor/
+
+# 4. Ignore IDE/editor files
+*.swp
+.vscode/
+.idea/
