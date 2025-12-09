@@ -1,6 +1,6 @@
 # Go Bookstore API
 
-A simple REST API built in Go using GORM and Gorilla Mux.
+A simple REST API built in Go using GORM and Gorilla Mux.  
 Followed guide: https://www.youtube.com/watch?v=1E_YycpCsXw
 
 ## Purpose / Learning Goal
